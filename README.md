@@ -1,5 +1,3 @@
-
-<!doctype html>
 <html>
 <head>
 <title> Los Murcielagos </title>
